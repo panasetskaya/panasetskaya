@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @panasetskaya
-- 🌱 Currently learning Python and JavaScript
+- 🌱 Currently learning Java, Kotlin and Android 
 
