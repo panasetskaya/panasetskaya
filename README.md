@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @panasetskaya
+- 👋 Hi, I’m Maria Panasetskaia
 - 🌱 Junior Android dev (Kotlin)
 
