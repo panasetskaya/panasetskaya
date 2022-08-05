@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Maria
-- 🌱 Junior Android dev (Kotlin)
+Hi, I’m Maria - junior Android dev
 
