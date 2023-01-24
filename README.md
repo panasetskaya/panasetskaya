@@ -1,2 +1,2 @@
-Hi, I’m Maria Panasetskaya - junior Android dev
+Hi, I’m Mariia Panasetskaia - junior Android dev
 
